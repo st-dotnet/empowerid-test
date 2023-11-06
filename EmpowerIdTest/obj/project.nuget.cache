@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aWzhjusvw73M17I1FAkXV/LLk1pQAwG0D7rxBPdb8C4lo66DHqKESWIhwh2u0C8HLxoFiT/mjJKcITqpH3L0xw==",
+  "success": true,
+  "projectFilePath": "D:\\Test14\\empowerid-test\\EmpowerIdTest\\EmpowerIdTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
